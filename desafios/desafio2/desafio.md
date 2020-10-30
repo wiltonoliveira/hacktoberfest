@@ -9,7 +9,6 @@
 
 ## Índice
 
-- [Índice](#índice)
 - [Desafio](#desafio)
 - [Extras](#extras)
 - [Dicas](#dicas)
